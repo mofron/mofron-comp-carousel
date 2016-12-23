@@ -1,2 +1,2 @@
-# mofron-parts-carousel
+# mofron-comp-carousel
 carousel component for mofron
